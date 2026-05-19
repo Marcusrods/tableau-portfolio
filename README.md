@@ -2,7 +2,7 @@
 
 Two Tableau dashboards built during the BTS Masters in Big Data and AI Data Visualisation module. The workbooks live in this repo. The interactive versions sit on Tableau Public so anyone can poke at them without installing Tableau.
 
-> **Live links coming.** Once I publish the two workbooks to Tableau Public, the links go here. For now the repo has the .twb/.twbx files plus PDF previews.
+> Challenge 4 is live on Tableau Public. Challenge 3 is pending and the link will be added once published.
 
 ## Dashboards
 
@@ -13,7 +13,7 @@ A market overview dashboard for the South African spirits category. Sales by bra
 - Workbook: [`dashboards/challenge_4/Marcus_Final_Spirits.twbx`](dashboards/challenge_4/Marcus_Final_Spirits.twbx) (packaged, opens without needing the source data file).
 - Mockup: [`previews/challenge_4_dashboard_mockup.pdf`](previews/challenge_4_dashboard_mockup.pdf).
 - Brief overview: [`previews/challenge_4_brief_overview.pdf`](previews/challenge_4_brief_overview.pdf).
-- Live: *Tableau Public link to be added.*
+- Live: [public.tableau.com/views/Marcus_Final_Spirits/Dashboard](https://public.tableau.com/app/profile/marcus.rodrigues/viz/Marcus_Final_Spirits/Dashboard).
 
 What this shows:
 
