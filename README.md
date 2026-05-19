@@ -2,7 +2,7 @@
 
 Two Tableau dashboards built during the BTS Masters in Big Data and AI Data Visualisation module. The workbooks live in this repo. The interactive versions sit on Tableau Public so anyone can poke at them without installing Tableau.
 
-> Challenge 4 is live on Tableau Public. Challenge 3 is pending and the link will be added once published.
+> Both dashboards are live on Tableau Public. Open the workbooks here, or click through to the interactive versions.
 
 ## Dashboards
 
@@ -28,7 +28,7 @@ A diagnostic dashboard exploring viewership and IMDB rating trends across The Si
 
 - Workbook: [`dashboards/challenge_3/Marcus_Rodrigues_Challenge_3.twb`](dashboards/challenge_3/Marcus_Rodrigues_Challenge_3.twb).
 - Data: [`dashboards/challenge_3/SimpsonsData.xlsx`](dashboards/challenge_3/SimpsonsData.xlsx).
-- Live: *Tableau Public link to be added.*
+- Live: [public.tableau.com/views/Marcus_Rodrigues_Challenge_3/SimpsonsDashboard](https://public.tableau.com/app/profile/marcus.rodrigues/viz/Marcus_Rodrigues_Challenge_3/SimpsonsDashboard).
 
 What this shows:
 
